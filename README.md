@@ -1,9 +1,5 @@
 # 🍷 Wine Dataset PCA Analysis  
 
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)  
-[![Català](https://img.shields.io/badge/Language-Català-orange)](README.md)  
-[![Español](https://img.shields.io/badge/Language-Español-red)](README.md)  
-
 Principal Component Analysis (PCA) applied to the Wine dataset to reduce dimensionality and interpret key features.  
 
 ---
