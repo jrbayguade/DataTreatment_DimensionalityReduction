@@ -13,4 +13,3 @@ Usage:
 - Run all cells to see PCA steps and visualizations.
 - Requires pandas, scikit-learn, and matplotlib.
 - Focuses on reducing 13 features to 2-3 principal components while retaining ~80% variance.
-
