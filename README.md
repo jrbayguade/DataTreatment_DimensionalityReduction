@@ -13,3 +13,5 @@ Usage:
 - Run all cells to see PCA steps and visualizations.
 - Requires pandas, scikit-learn, and matplotlib.
 - Focuses on reducing 13 features to 2-3 principal components while retaining ~80% variance.
+
+For other dimension-reduction work, check out my FA (Factorial Analysis) work [here](https://github.com/jrbayguade/DataTreatment_DimensionalityReduction_PCA)
